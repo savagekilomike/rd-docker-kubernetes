@@ -1,1 +1,1 @@
-# rd-docker-kubernetes
+# Docker & Kubernetes Course
